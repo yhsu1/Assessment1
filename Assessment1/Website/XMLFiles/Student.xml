@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Students>
+  <Student>
+    <StudentNumber>10009001</StudentNumber>
+    <FirstName>Brock</FirstName>
+    <LastName>Todd</LastName>
+    <DisplayName>Brock</DisplayName>
+    <Gender>M</Gender>
+    <address>11347</address>
+    <City>Edmonton</City>
+  </Student>
+  <Student>
+    <StudentNumber>10009002</StudentNumber>
+    <FirstName>Annette</FirstName>
+    <LastName>Oldham</LastName>
+    <DisplayName>Annette</DisplayName>
+    <Gender>M</Gender>
+    <address>11347</address>
+    <City>Edmonton</City>
+  </Student>
+</Students>
